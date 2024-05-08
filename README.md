@@ -14,7 +14,7 @@ https://github.com/Cspetero/E-Learning-Platform.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd TutorTrack
+cd E-Learning-Platform
 
 ```
 
